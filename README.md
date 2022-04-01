@@ -1,4 +1,4 @@
 # Fungtool
 
 
-![][fungtool_logo.png]
+![][img/fungtool_logo.png]
