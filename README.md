@@ -1,4 +1,4 @@
 # Fungtool
 ## Accessibility at your fingertips.
 
-![Screenshot][fungtool_logo.png]
+![][fungtool_logo.png]
