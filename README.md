@@ -1,1 +1,2 @@
-# fungtool
+# Fungtool
+## Accessibility at your fingertips.
